@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">aluguel</string>
+    <string name="login">Usuario</string>
+    <string name="senha">senha</string>
+    <string name="entrar">entrar</string>
+    <string name="cadastrar">cadastrar</string>
+    <string name="cliente">cliente</string>
+    <string name="aluguel">aluguel</string>
+
+</resources>
